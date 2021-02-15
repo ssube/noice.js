@@ -1549,10 +1549,10 @@ eslint-plugin-no-null@1.0.2:
   resolved "https://artifacts.apextoaster.com/repository/group-npm/eslint-plugin-no-null/-/eslint-plugin-no-null-1.0.2.tgz#1236a812391390a1877ad4007c26e745341c951f"
   integrity sha1-EjaoEjkTkKGHetQAfCbnRTQclR8=
 
-eslint-plugin-sonarjs@0.5.0:
-  version "0.5.0"
-  resolved "https://artifacts.apextoaster.com/repository/group-npm/eslint-plugin-sonarjs/-/eslint-plugin-sonarjs-0.5.0.tgz#ce17b2daba65a874c2862213a9e38e8986ad7d7d"
-  integrity sha512-XW5MnzlRjhXpIdbULC/qAdJYHWw3rRLws/DyawdlPU/IdVr9AmRK1r2LaCvabwKOAW2XYYSo3kDX58E4MrB7PQ==
+eslint-plugin-sonarjs@0.6.0:
+  version "0.6.0"
+  resolved "https://artifacts.apextoaster.com/repository/group-npm/eslint-plugin-sonarjs/-/eslint-plugin-sonarjs-0.6.0.tgz#3ee3b04f1f9587ef02b255a5d2f96e500c4789bb"
+  integrity sha512-y+sXXWsYVW2kNEjmZI87laFspwC/hic7wyMjsPFoST8aQ2hESUVavkZjnTeVdHMOmlmcloKkyX/GJJetmfBY4Q==
 
 eslint-scope@^5.0.0:
   version "5.0.0"
