@@ -52,7 +52,7 @@
     DOCKER_HOST: tcp://localhost:2375
 
 .build-node:
-  image: docker.artifacts.apextoaster.com/apextoaster/node:12.18
+  image: docker.artifacts.apextoaster.com/apextoaster/node:12.20
   tags:
     - platform:k8s
     - runner:shared
